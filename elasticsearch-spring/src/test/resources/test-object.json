@@ -1,0 +1,10 @@
+{
+  "id": "1_MAIN",
+  "name": "First Document",
+  "numberOfClicks": 12,
+  "subDocument": {
+    "id": "1_SUB",
+    "name": "First Sub Document",
+    "numberOfClicks": 1234
+  }
+}

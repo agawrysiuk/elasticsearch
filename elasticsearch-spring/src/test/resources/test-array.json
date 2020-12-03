@@ -1,0 +1,32 @@
+[
+  {
+    "id": "1_MAIN",
+    "name": "First Document",
+    "numberOfClicks": 12,
+    "subDocument": {
+      "id": "1_SUB",
+      "name": "First Sub Document",
+      "numberOfClicks": 1234
+    }
+  },
+  {
+    "id": "2_MAIN",
+    "name": "Second Document",
+    "numberOfClicks": 13,
+    "subDocument": {
+      "id": "1_SUB",
+      "name": "First Sub Document",
+      "numberOfClicks": 1234
+    }
+  },
+  {
+    "id": "3_MAIN",
+    "name": "Unique Document",
+    "numberOfClicks": 4,
+    "subDocument": {
+      "id": "2_SUB",
+      "name": "Second Sub Document",
+      "numberOfClicks": 1111
+    }
+  }
+]

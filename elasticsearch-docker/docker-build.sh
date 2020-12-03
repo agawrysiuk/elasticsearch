@@ -1,0 +1,1 @@
+docker-compose -p es-edu -f docker-compose.yml up
